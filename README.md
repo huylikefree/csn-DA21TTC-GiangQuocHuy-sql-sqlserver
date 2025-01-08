@@ -6,3 +6,4 @@
 -	Chọn lọc dữ liệu thu thập được để tạo dữ liệu mẫu thử.
 -	Tiến hành nhập mẫu thử.
 -	Truy vấn thử mẫu thử.
+- Link figma: 
